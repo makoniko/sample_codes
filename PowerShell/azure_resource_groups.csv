@@ -1,0 +1,5 @@
+﻿"id","location","managedBy","name","properties","tags","type"
+"/subscriptions/05062c61-1c01-455b-954d-dc54715dad00/resourceGroups/RG01","eastus",,"RG01","@{provisioningState=Succeeded}","@{env=dev}","Microsoft.Resources/resourceGroups"
+"/subscriptions/05062c61-1c01-455b-954d-dc54715dad00/resourceGroups/NetworkWatcherRG","eastus",,"NetworkWatcherRG","@{provisioningState=Succeeded}",,"Microsoft.Resources/resourceGroups"
+"/subscriptions/05062c61-1c01-455b-954d-dc54715dad00/resourceGroups/DefaultResourceGroup-EUS","eastus",,"DefaultResourceGroup-EUS","@{provisioningState=Succeeded}",,"Microsoft.Resources/resourceGroups"
+"/subscriptions/05062c61-1c01-455b-954d-dc54715dad00/resourceGroups/AzureBackupRG_japaneast_1","japaneast","subscriptions/05062c61-1c01-455b-954d-dc54715dad00/providers/Microsoft.RecoveryServices/","AzureBackupRG_japaneast_1","@{provisioningState=Succeeded}",,"Microsoft.Resources/resourceGroups"
